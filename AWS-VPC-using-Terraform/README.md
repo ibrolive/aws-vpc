@@ -381,3 +381,5 @@ terraform destroy -auto-approve
 rm -rf .terraform*
 rm -rf terraform.tfstate*
 ```
+
+> Special thanks to Kalyan Reddy for the Udemy course on AWS best practices.
