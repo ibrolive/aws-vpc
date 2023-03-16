@@ -75,3 +75,4 @@
 - Delete `my-manual-vpc`
 
 
+> Special thanks to Kalyan Reddy for the Udemy course on AWS best practices.
